@@ -14,7 +14,6 @@ def create_h():
         else:
             print("#", " " * 5, "#")
 
-
 create_o()
 print()
 create_h()
